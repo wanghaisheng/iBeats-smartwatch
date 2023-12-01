@@ -1,3 +1,13 @@
+I was afraid someday die lonely and noone ever knows that at all
+
+扩展到所有的智能手表
+
+扩展到手机的motion data
+
+https://github.com/klingliu/motion-visualizer
+
+https://github.com/ranveerm/CoreMotionDataWatch
+
 # iBeats
 使用Apple Watch 心率数据采集，并将采集数据同步到GitHub主页 - Your Soul, Your Beats!
 
